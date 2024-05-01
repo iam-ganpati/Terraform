@@ -6,7 +6,7 @@
 - HashiCorp and the Terraform community have already written thousands of providers to manage many different types of resources and services.
 - HCL: Hashicorp Configuration Language
   
-**1. terraform consist of the three flows:**
+**1. Terraform consist of the three flows:**
 - work: You define resources, which may be across multiple cloud providers and services.
 - Plan: Terraform creates an execution plan describing the infrastructure it will create, update, or destroy based on the existing infrastructure and your configuration
 - Apply: On approval, terraform performs the proposed operations in the correct order
