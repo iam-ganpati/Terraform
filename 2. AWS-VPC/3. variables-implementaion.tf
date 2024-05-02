@@ -1,4 +1,4 @@
-# we can make two files also with name variables.tf and output.tf, in this example we difined the both in single .tf file.
+# we can make two files also with name variables.tf and output.tf, in this example we defined the both in single main.tf file.
 
 # Define an input variable for the EC2 instance type
 variable "instance_type" {
