@@ -3,7 +3,7 @@
  - Terraform enables users to manage and automate the deployment and scaling of infrastructure across various cloud providers, such as AWS, Azure, Google Cloud Platform, and others, as well as on-premises infrastructure.
 - HashiCorp and the Terraform community have already written thousands of providers to manage many different types of resources and services.
 
-**we will see below in this Terraform section**
+## We will see below in this Terraform section
 
 1. Introduction
 2. Getting started
