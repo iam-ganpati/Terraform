@@ -26,3 +26,10 @@
 
  6. Project
     - we will create the AWS architecture and will deploy the application on ec2.
+   
+   
+ ## We will see below workflow in the terraform for AWS provider.
+
+
+ 
+![terraform-workflow-1-1024x512](https://github.com/gk-aws-dev/Terraform/assets/154478305/0a4dc852-c256-482c-b34a-8d679e5a5f42)
